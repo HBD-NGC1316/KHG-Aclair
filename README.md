@@ -32,7 +32,7 @@ If you use KHG-Aclair in your research or find it helpful, please consider citin
 This work was supported by the Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the government of Korea (MSIT) under grant number 2021-0-01352, titled "Development of technology for validating the autonomous driving services in perspective of laws and regulations.
 
 ## Source Code References
-This project was developed with reference to the source codes from Research [KGCL](https://github.com/yuh-yang/KGCL-SIGIR22) and Research [HyperGAT](https://github.com/kaize0409/HyperGAT_TextClassification). We express our deep gratitude for their contributions and ideas.
+This project was developed with reference to the source codes from [KGCL](https://github.com/yuh-yang/KGCL-SIGIR22) and [HyperGAT](https://github.com/kaize0409/HyperGAT_TextClassification). We express our deep gratitude for their contributions and ideas.
 
 ## Contact
 
