@@ -17,6 +17,11 @@ KHG-Aclair aims to improve attention mechanisms in machine learning models by le
 
 As of now, the repository is undergoing organization and cleanup. The well-structured code and datasets will be published soon.
 
+## Dataset
+The dataset is available via the following link due to file size issues.
+[Dataset Download Link](https://example.com/dataset)
+
+
 ## Citation
 
 If you use KHG-Aclair in your research or find it helpful, please consider citing our paper.
