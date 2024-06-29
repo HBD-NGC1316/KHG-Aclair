@@ -8,9 +8,10 @@ KHG-Aclair aims to improve attention mechanisms in machine learning models by le
 
 ## Features
 
-- **Will be
-- **Update
-- **Soon
+- **Will Be**: 
+- **Update**: 
+- **Soon**: 
+
 
 ## Usage
 
