@@ -28,11 +28,8 @@ If you use KHG-Aclair in your research or find it helpful, please consider citin
   year={2024},
 }
 
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## Acknowledgments
+This work was supported by the Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the government of Korea (MSIT) under grant number 2021-0-01352, titled "Development of technology for validating the autonomous driving services in perspective of laws and regulations.
 
 ## Contact
 
