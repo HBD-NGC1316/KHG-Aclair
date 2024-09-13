@@ -13,18 +13,30 @@ KHG-Aclair aims to improve attention mechanisms in machine learning models by le
 -->
   
 ## Requirements
-python=3.8.0
-numpy=1.21.0
-pandas=1.3.0
-scikit-learn=1.1.1
-scipy=1.7.0
-torch=1.8.1
-tqdm=4.61.2
+python==3.8.0  
+
+numpy=1.21.0  
+
+pandas==1.3.0  
+
+scikit-learn==1.1.1  
+
+scipy==1.7.0  
+
+torch==1.8.1  
+
+tqdm==4.61.2  
+
 
 ## Usage
-Example of Item Knowledge Hypergraph Construction : python ./data/run.py --dataset=movielens --rel_min=2 --rel_max=2400
++ Example of Item Knowledge Hypergraph Construction :
 
-Example of running KHG-Aclair: python main.py --dataset=movielens --rel_min=2 --rel_max=2400
+  python ./data/run.py --dataset=movielens --rel_min=2 --rel_max=2400
+
++ Example of running KHG-Aclair:
+
+  python main.py --dataset=movielens --rel_min=2 --rel_max=2400
+
 
 ## Dataset
 The dataset is available via the following link due to file size issues.
