@@ -5,17 +5,26 @@ Welcome to the official repository of KHG-Aclair, a research project focused on 
 ## Overview
 
 KHG-Aclair aims to improve attention mechanisms in machine learning models by leveraging Knowledge HyperGraphs (KHGs). This repository contains the source code and datasets used in the research paper titled "KHG-Aclair". Please note that the code is currently being organized and will soon be made available in a well-structured format.
-
-## Features
+<!-- ## Features
 
 - **Will Be**: 
 - **Update**: 
 - **Soon**: 
-
+-->
+  
+## Requirements
+python=3.8.0
+numpy=1.21.0
+pandas=1.3.0
+scikit-learn=1.1.1
+scipy=1.7.0
+torch=1.8.1
+tqdm=4.61.2
 
 ## Usage
+Example of Item Knowledge Hypergraph Construction : python ./data/run.py --dataset=movielens --rel_min=2 --rel_max=2400
 
-As of now, the repository is undergoing organization and cleanup. The well-structured code and datasets will be published soon.
+Example of running KHG-Aclair: python main.py --dataset=movielens --rel_min=2 --rel_max=2400
 
 ## Dataset
 The dataset is available via the following link due to file size issues.
@@ -29,7 +38,7 @@ If you use KHG-Aclair in your research or find it helpful, please consider citin
 @article{yourcitationdetails,
   title={KHG-Aclair: Knowledge HyperGraph-based Attention with Contrastive Learning},
   author={Hyejin Park, Taeyoon Lee, Kyungwon Kim},
-  journal={Will be submitted to the International Journal},
+  journal={Will be published in the Journal of Computing Science and Engineering(JCSE)},
   year={2024},
 }
 
