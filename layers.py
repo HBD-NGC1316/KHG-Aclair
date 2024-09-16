@@ -16,7 +16,7 @@ class HyperGraphAttentionLayerSparse(nn.Module):
         self.alpha = alpha
         self.concat = concat
 
-        self.transfer = transfer ## gat1 기본 False, gat2 기본 True
+        self.transfer = transfer ## gat1 -> False, gat2 -> True
 
         if self.transfer:
             self.weight = Parameter(torch.Tensor(self.in_features, self.out_features))
