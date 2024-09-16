@@ -39,9 +39,9 @@ class HKGDataset(Dataset):
                     key = str(item)+","+str(edge)
                     node_set = self.item2hnodes[key]
 
-                    # 1의 갯수를 구합니다.
+                    ## counting # of 1
                     count_max += node_set.count(self.nhyper_node)
-                    # 1이 아닌 원소를 리스트로 반환합니다.
+                    # return list when x is not 1
                     valid_node = [x for x in node_set if x != self.nhyper_node]      
                     combined_node.extend(valid_node)
 
