@@ -28,6 +28,8 @@ torch==1.8.1
 tqdm==4.61.2  
 
 
+## Environment Requirement
+
 ## Usage
 + Example of Item Knowledge Hypergraph Construction :
 
@@ -36,6 +38,7 @@ tqdm==4.61.2
 + Example of running KHG-Aclair:
 
   python main.py --dataset=movielens --rel_min=2 --rel_max=2400
+
 
 
 ## Dataset
